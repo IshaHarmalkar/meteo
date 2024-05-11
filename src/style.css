@@ -59,7 +59,7 @@ main{
 }
 .weather-app-city{
  margin: 0;
- font-size: 38pxx;
+ font-size: 38px;
  line-height: 48px;
   
 }
@@ -70,7 +70,7 @@ main{
   font-weight: 500;
 }
 .weather-app-details strong{
-  color: #f65383;
+  color: #f65282;
 }
 
 .weather-app-temperature-container{
@@ -90,7 +90,7 @@ main{
   font-weight: bold;
 }
 
-.weatheer-app-unit{
+.weather-app-unit{
   margin-top: 16px;
   font-size: 28px;}
 
